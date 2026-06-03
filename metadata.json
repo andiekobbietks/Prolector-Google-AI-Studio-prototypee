@@ -1,0 +1,6 @@
+{
+  "name": "ProLector Workspace & E-Book Library",
+  "description": "An interactive full-stack pro video editing workspace (A-NLE) and scholarly ebook collection featuring haptic entrainment models, color spaces, and timeline compilers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
